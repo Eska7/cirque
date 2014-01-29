@@ -18,31 +18,31 @@
 				<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
 					<div class="padded"></div>
 					<ul class="nav nav-pills nav-stacked">
-						<li class="text-center active">
+						<li class="text-center active glyphicon glyphicon-home">
 							<a href="#">
 								Home
 							</a>
 						</li>
 
-						<li class="text-center">
+						<li class="text-center glyphicon glyphicon-ok">
 							<a href="#">
 								Valider des photos
 							</a>
 						</li>
 
-						<li class="text-center">
+						<li class="text-center glyphicon glyphicon-picture">
 							<a href="#">
 								Toutes les photos
 							</a>
 						</li>
 
-						<li class="text-center">
+						<li class="text-center glyphicon glyphicon-wrench">
 							<a href="#">
 								Tous les cirques
 							</a>
 						</li>
 
-						<li class="text-center">
+						<li class="text-center glyphicon glyphicon-user">
 							<a href="#">
 								Tous les utilisateurs
 							</a>
